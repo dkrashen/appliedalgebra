@@ -1,0 +1,19 @@
+
+testing: true 
+
+# Site Settings
+# Course Info
+title: "Applied Algebra"
+email: daniel.krashen@rutgers.edu
+tagline: "Rutgers MATH 428 Spring 2020"
+description: "Applied Algebra"
+instructor: "Danny Krashen"
+instructor_email: "daniel.krashen@rutgers.edu"
+office: "Hill 220"
+office-hour: "Wed 11-12/ Mon 2:30-3:30 (tentative)"
+lecture-schedule: "Monday/Thursday 12:00pm -- 1:20pm<br />Allison Road Classroom, Room 205"
+instructor_url: "http://dkrashen.org"
+
+
+
+baseurl: "/appliedalgebra"
