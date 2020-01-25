@@ -20,7 +20,7 @@ Discrete Fourier and Wavelet Transforms, by Roe W. Goodman. Available at [Amazon
 
 Topical outline
 
-- Vector Spaces Review, Vector Graphics (Ch 1)
+- Vector Spaces Review, Complex Exponentials and the Fourier Transform (Ch 1)
 - The Discrete Fourier Transform (Ch 2)
 - Discrete Wavelet Transforms (Ch 3)
 - Wavelet Transforms from Filter Banks (Ch 4)
