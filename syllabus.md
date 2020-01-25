@@ -27,6 +27,6 @@ Topical outline
 
 Grading
 
-- 1/3: Homework (each lecture) and in-class worksheets
+- 1/3: Homework (each lecture), in-class worksheets (occasional), computer projects (about every 3 weeks)
 - 1/6 each: Midterm exams (tentative dates: Feb 27, April 16)
 - 1/3: Final exam
