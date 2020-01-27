@@ -1,3 +1,6 @@
 - title: "Lecture 1"
   description: "These are the notes I prepared, but they contain more information than I ended up covering"
   filename: "lecture1.pdf"
+- title: "Lecture 2"
+  description: "The complex exponential function"
+  filename: "lecture2.pdf"
