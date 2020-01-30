@@ -4,3 +4,7 @@
 - title: "Lecture 2"
   description: "The complex exponential function"
   filename: "lecture2.pdf"
+- title: "Lecture 3"
+  description: "The (complex) Fourier series for a periodic function"
+  filename: "lecture3.pdf"
+  
