@@ -10,5 +10,8 @@
 - title: "Lecture 4"
   description: "The complex Fourier coefficients as dot products. Intro to the discrete Fourier transform."
   filename: "lecture4.pdf"
+- title: "Lecture 5"
+  description: "The discrete Fourier transform"
+  filename: "lecture5.pdf"
   
   
