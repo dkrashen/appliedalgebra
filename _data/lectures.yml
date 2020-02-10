@@ -13,5 +13,8 @@
 - title: "Lecture 5"
   description: "The discrete Fourier transform"
   filename: "lecture5.pdf"
+- title: "Lecture 6"
+  description: "Filters"
+  filename: "lecture6.pdf"
   
   
