@@ -8,8 +8,10 @@ layout: default
 	  <b>{{h.title}}</b>: {{h.description}}
 	</div>
 	<div class="col-md-3">
+		{% if h.filename %}
 		<a href="{{ h.filename }}"><button type="button" 
     class="btn btn-lnk btn-spaced">pdf</button></a>
+		{% endif %}
 	</div>
 </div>
 {% endfor %}
