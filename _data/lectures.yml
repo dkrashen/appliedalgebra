@@ -19,5 +19,8 @@
 - title: "Lecture 8"
   description: "Overview and the fast Fourier transform"
   filename: "lecture8.pdf"
+- title: "Lecture 9"
+  description: "Waveforms vs wavelets. Intro to the Haar wavelet transform."
+  filename: "lecture9.pdf"
   
   
