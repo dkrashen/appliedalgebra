@@ -22,5 +22,8 @@
 - title: "Lecture 9"
   description: "Waveforms vs wavelets. Intro to the Haar wavelet transform."
   filename: "lecture9.pdf"
+- title: "Lecture 10"
+  description: "The philosophy of wavelets, and more details on the Haar transform."
+  filename: "lecture10.pdf"
   
   
