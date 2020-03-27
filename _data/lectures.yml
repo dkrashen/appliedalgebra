@@ -34,4 +34,6 @@
 - title: "Lecture 13"
   description: "What makes a good wavelet?"
   filename: "lecture13.pdf"  
-  
+- title: "pre-Lecture 14"
+  description: "The CDF(2,2) Wavelet"
+  filename: "lecture14.pdf"  
