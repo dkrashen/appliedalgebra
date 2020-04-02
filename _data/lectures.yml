@@ -40,3 +40,6 @@
 - title: "Lecture 14"
   description: "The CDF(2,2) Wavelet"
   filename: "lecture14.pdf"  
+- title: "Lecture 15"
+  description: "The linear algebra of wavelet transformations"
+  filename: "lecture15.pdf"  
