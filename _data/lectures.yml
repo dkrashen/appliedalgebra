@@ -43,3 +43,6 @@
 - title: "Lecture 15"
   description: "The linear algebra of wavelet transformations"
   filename: "lecture15.pdf"  
+- title: "pre-Lecture 16"
+  description: "The Daub4 Wavelet"
+  filename: "pre-lecture16.pdf"  
