@@ -58,4 +58,7 @@
 - title: "Lecture 18"
   description: "Review"
   filename: "lecture18.pdf"
+- title: "Lecture 19"
+  description: "Intro to 2-D wavelet transforms, and overview of filter banks."
+  filename: "lecture19.pdf"
 
