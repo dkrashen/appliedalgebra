@@ -67,4 +67,6 @@
 - title: "Lecture 21"
   description: "2-D wavelet transforms."
   filename: "lecture20.pdf"
-
+- title: "Lecture 22"
+  description: "Wavelet transforms for unbounded signals, part 1."
+  filename: "pre-lecture21-slides.pdf"
