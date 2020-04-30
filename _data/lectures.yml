@@ -70,3 +70,6 @@
 - title: "Lecture 22"
   description: "Wavelet transforms for unbounded signals, part 1."
   filename: "pre-lecture21-slides.pdf"
+- title: "Lecture 23"
+  description: "Wavelet transforms for unbounded signals, part 2."
+  filename: "lecture23-slides.pdf"
